@@ -6,47 +6,80 @@ body {
   color: aqua;
 }
 
+.porsi {
+  background-color: chocolate;
+  border-radius: 15px;
+  padding: 10px 10px;
+}
+
 .a1 {
   background-color: rgb(34, 209, 151);
   border-radius: 15px;
+  padding: 10px 10px;
 }
 
 .a2 {
   background-color: green;
   border-radius: 15px;
+  padding: 10px 10px;
 }
 
 .a3 {
   background-color: rgb(245, 41, 184);
   border-radius: 15px;
+  padding: 10px 10px;
 }
 
 .a4 {
   background-color: black;
   border-radius: 15px;
+  padding: 10px 10px;
 }
 
 .a5 {
   background-color: crimson;
   border-radius: 15px;
+  padding: 10px 10px;
 }
 
 .btnsi {
   background-color: rgb(157, 241, 29);
-  padding: 5px 8px;
-  border: 0ch;
+  padding: 25px 25px 25px;
+  font-weight: 600;
+  margin: 100px 150px;
+  border-radius: 10ch;
 }
 
 .btnno {
-  background-color: red;
-  padding: 5px 5px;
-  border: 0ch;
+  background-color: rgb(255, 0, 0);
+  padding: 25px 25px 25px;
+  font-weight: 600;
+  margin: 50px 50px;
+  border-radius: 10ch;
 }
 
-.btncom {
+/*.btncom {
   background: fixed;
   background-color: aliceblue;
   border-color: blue;
   border-width: 20px;
   border-style: double;
+} */
+
+.a6 {
+  background-color: yellow;
+  border-radius: 15px;
+  padding: 10px 10px;
+}
+
+.a7 {
+  background-color: mediumslateblue;
+  border-radius: 15px;
+  padding: 10px 10px;
+}
+
+.a8 {
+  background-color: cadetblue;
+  border-radius: 15px;
+  padding: 10px 10px;
 }
